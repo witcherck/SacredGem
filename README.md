@@ -1,4 +1,4 @@
 SacredGem
 =========
 
-In class project, 2D tower defense, incomplete.
+A 2D Tower Defense Game built with C#, Unity3D and NGUI.
